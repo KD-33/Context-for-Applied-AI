@@ -37,6 +37,6 @@ Scholarships I found on my own that I may have AI help me apply to as case studi
 [Scholarship Rough Draft with ChatGPT: All or Nothing method](https://chatgpt.com/share/9dd5e29c-2b92-4726-b47d-ee8674299e5b)  
   -Shockingly, on the first draft ChatGPT wrote 986 words when I only asked for 500-800! It's crazy to see how much AI has advanced just in the last few months.  
 
-The two rough drafts from above will be added to my case study page on my repo. 
+The two rough drafts from above will be added to my case study page on my repo. I am planning on having a few different case studies where I use each of my essay writing methods on one scholarship application at a time to showcase my writing methods strenghts and weaknesses on a level playing field. 
 
 And then I also worked through some pages and added information that I wrote completely on my own (so it's possible you may find some grammatical errors, I haven't been through it with a fine-tooth comb yet)
