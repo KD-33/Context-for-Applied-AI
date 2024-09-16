@@ -40,3 +40,20 @@ Scholarships I found on my own that I may have AI help me apply to as case studi
 The two rough drafts from above will be added to my case study page on my repo. I am planning on having a few different case studies where I use each of my essay writing methods on one scholarship application at a time to showcase my writing methods strenghts and weaknesses on a level playing field. 
 
 And then I also worked through some pages and added information that I wrote completely on my own (so it's possible you may find some grammatical errors, I haven't been through it with a fine-tooth comb yet)
+
+## MATERIAL FROM WEEK 3
+While I was traveling for cross country this week/weekend I focused on setting up my repo. There were a lot of uncertainties last week and I think I figured out all of my formatting hiccups. My repo is kinda cute now and I think it's laid out in a way that is quick to understand and navigate. 
+[my voice rough draft](https://chatgpt.com/share/66e7b817-57d4-800f-90f2-ef6437d9f546)
+[double chat window-first prompt](https://chatgpt.com/share/66e7b6b9-94a4-800f-bc4d-dc643ec796a3)
+[double chat window-second prompt](https://chatgpt.com/share/66e7b678-49a8-800f-ae3b-c8abd0f7a4c6)
+[word vomit rough draft](https://chatgpt.com/share/66e7aff3-d2f4-800f-807c-4c5435de4fa2)
+[outline rough draft](https://chatgpt.com/share/66e7b3ca-b504-800f-bb04-c2988408cf1b)
+[outline creation link](https://chatgpt.com/share/66e7b3ff-47a8-800f-8a2e-b1f433782647)
+Currently Poe.com will not let me access any of my old chats (or create new ones) which is a bit troubling. So most of my work ended up being on ChatGPT, perplexity, and elicit this week. When I figure out the Poe.com thing, I will put those chats on next week.
+[Research for my pyschology project using Perplexity](https://www.perplexity.ai/search/college-students-use-reusable-2IgzDUbrTDOPPsar5UpYBg)
+  -Very interesting because the topic I needed to find papers on was a bit  I was trying to make it correlate were a bit difficult. It took a lot of trial and error to get it to show me results that were semi useful. 
+[Research for my pyschology project using Elicit](https://elicit.com/notebook/3cbc4ea4-981e-4c8d-a444-65aa397e984a)
+[Elicit not working as a scholarship finder](https://elicit.com/notebook/c77ebd2a-83c9-4da1-bb6f-89e7c4257025)
+  -I thought maybe, but no. It only brings up academic papers lol!
+
+
