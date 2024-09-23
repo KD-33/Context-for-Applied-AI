@@ -56,18 +56,18 @@ Currently Poe.com will not let me access any of my old chats (or create new ones
 [Elicit not working as a scholarship finder](https://elicit.com/notebook/c77ebd2a-83c9-4da1-bb6f-89e7c4257025)  
   -I thought maybe, but no. It only brings up academic papers lol!  
 
-## MATERIAL FROM WEEK 4
-This week I filled out my editing tips page and worked on my second case study.  
-[ChatGPT Editing Tips](https://chatgpt.com/share/66f0b8f9-1fd4-800f-9ee8-96bd12b8dafe)
-[ChatGPT with specific methods Editing Tips](https://chatgpt.com/share/66f0b91e-c5e8-800f-a510-916c50278ba3)
-[Claude Editing Tips](https://poe.com/s/fQwY9cG06d7AaeioaX7z)
-[Claude with specific methods Editing Tips](https://poe.com/s/mqLWYFR3JEMB3JoxLW0Q)
-[My Voice Rough Draft](https://poe.com/s/HGv2Xhq6L0a80OUPmK7y)
-[Double Chat Window 1 Rough Draft](https://poe.com/s/pxjQJaGMIp3hOP0dKfn4)
-[Double Chat Window 2 Rough Draft](https://poe.com/s/ZBt208vPL3zKjv21ma01)
-[Word Vomit Rough Draft](https://poe.com/s/aOCvA84xE2kaHFRZLb1z)
-[Outline Rough Draft](https://poe.com/s/Zz4G95OBoSadlukUJBCm)
-[Outline Creation Link](https://poe.com/s/cbIpfDGd8mkUOlzs0Hee)
-[All AI and editing Rough Draft](https://poe.com/s/gvGaCCIPkwey7KBQuzhF)
+## MATERIAL FROM WEEK 4  
+This week I filled out my editing tips page and worked on my second case study.    
+[ChatGPT Editing Tips](https://chatgpt.com/share/66f0b8f9-1fd4-800f-9ee8-96bd12b8dafe)  
+[ChatGPT with specific methods Editing Tips](https://chatgpt.com/share/66f0b91e-c5e8-800f-a510-916c50278ba3)  
+[Claude Editing Tips](https://poe.com/s/fQwY9cG06d7AaeioaX7z)  
+[Claude with specific methods Editing Tips](https://poe.com/s/mqLWYFR3JEMB3JoxLW0Q)  
+[My Voice Rough Draft](https://poe.com/s/HGv2Xhq6L0a80OUPmK7y)  
+[Double Chat Window 1 Rough Draft](https://poe.com/s/pxjQJaGMIp3hOP0dKfn4)  
+[Double Chat Window 2 Rough Draft](https://poe.com/s/ZBt208vPL3zKjv21ma01)  
+[Word Vomit Rough Draft](https://poe.com/s/aOCvA84xE2kaHFRZLb1z)  
+[Outline Rough Draft](https://poe.com/s/Zz4G95OBoSadlukUJBCm)  
+[Outline Creation Link](https://poe.com/s/cbIpfDGd8mkUOlzs0Hee)  
+[All AI and editing Rough Draft](https://poe.com/s/gvGaCCIPkwey7KBQuzhF)  
 
 
