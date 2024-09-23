@@ -27,7 +27,7 @@ Scholarships I found on my own that I may have AI help me apply to as case studi
 
 [NSHSS Artificial Intelligence (AI) Innovation Scholarship](https://www.nshss.org/scholarships/s/nshss-artificial-intelligence-ai-innovation-scholarship/)
 
-## NEW MATERIAL FROM WEEK 2
+## MATERIAL FROM WEEK 2
 [Cute little side project to make a weightlifting plan with Claude](https://poe.com/s/XRk4XkoFXFukbnJmmK6h)  
 [Scholarship Searching with Perplexity](https://www.perplexity.ai/search/scholarships-for-undergrad-stu-2D_4ABGgRWG1giUGVfP82A#1)  
 [One of the Sources Perplexity Provided Me With](https://thescholarshipsystem.com/blog-for-students-families/the-ultimate-list-of-political-science-scholarships/)  
@@ -55,5 +55,19 @@ Currently Poe.com will not let me access any of my old chats (or create new ones
 [Research for my pyschology project using Elicit](https://elicit.com/notebook/3cbc4ea4-981e-4c8d-a444-65aa397e984a)  
 [Elicit not working as a scholarship finder](https://elicit.com/notebook/c77ebd2a-83c9-4da1-bb6f-89e7c4257025)  
   -I thought maybe, but no. It only brings up academic papers lol!  
+
+## MATERIAL FROM WEEK 4
+This week I filled out my editing tips page and worked on my second case study.  
+[ChatGPT Editing Tips](https://chatgpt.com/share/66f0b8f9-1fd4-800f-9ee8-96bd12b8dafe)
+[ChatGPT with specific methods Editing Tips](https://chatgpt.com/share/66f0b91e-c5e8-800f-a510-916c50278ba3)
+[Claude Editing Tips](https://poe.com/s/fQwY9cG06d7AaeioaX7z)
+[Claude with specific methods Editing Tips](https://poe.com/s/mqLWYFR3JEMB3JoxLW0Q)
+[My Voice Rough Draft]
+[Double Chat Window 1 Rough Draft]
+[Double Chat Window 2 Rough Draft]
+[Word Vomit Rough Draft]
+[Outline Rough Draft]
+[Outline Creation Link]
+[All AI and editing Rough Draft]
 
 
