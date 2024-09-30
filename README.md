@@ -70,13 +70,13 @@ This week I filled out my editing tips page and worked on my second case study.
 [Outline Creation Link](https://poe.com/s/cbIpfDGd8mkUOlzs0Hee)  
 [All AI and editing Rough Draft](https://poe.com/s/gvGaCCIPkwey7KBQuzhF)  
 
-## MATERIAL FROM WEEK 5
-This week I completed my original project and have moved on to a weightlifting project.
+## MATERIAL FROM WEEK 5  
+This week I completed my original project and have moved on to a weightlifting project.  
 [Cute little side project to make a weightlifting plan with Claude](https://poe.com/s/XRk4XkoFXFukbnJmmK6h)  
-[Trying to make a weightlifting plan for the same person but with ChatGPT](https://chatgpt.com/share/66f9f1c2-42ec-800f-870d-b586356ed8c0)
-[Questions about Weightlifting Plans](https://poe.com/s/t35kVpZo0jD5j5OgQYbB)
-[My First and Failed Weightlifting Plan with Claude](https://poe.com/s/eSW2Z2fQryR6Ox0iZANI)
-[My Weightlifting Plan with ChatGPT](https://chatgpt.com/share/66f9fdff-3e0c-800f-a56b-96aa93658a80)
+[Trying to make a weightlifting plan for the same person but with ChatGPT](https://chatgpt.com/share/66f9f1c2-42ec-800f-870d-b586356ed8c0)  
+[Questions about Weightlifting Plans](https://poe.com/s/t35kVpZo0jD5j5OgQYbB)  
+[My First and Failed Weightlifting Plan with Claude](https://poe.com/s/eSW2Z2fQryR6Ox0iZANI)  
+[My Weightlifting Plan with ChatGPT](https://chatgpt.com/share/66f9fdff-3e0c-800f-a56b-96aa93658a80)  
 
 
 
