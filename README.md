@@ -78,8 +78,12 @@ This week I completed my original project and have moved on to a weightlifting p
 [My First and Failed Weightlifting Plan with Claude](https://poe.com/s/eSW2Z2fQryR6Ox0iZANI)  
 [My Weightlifting Plan with ChatGPT](https://chatgpt.com/share/66f9fdff-3e0c-800f-a56b-96aa93658a80)  
 
-
-
-
-
-
+## MATERIAL FROM WEEK 6  
+Tragically, I haven't been able to meet with my weightlifting trainer yet, he was very busy last week. But I have a meeting with him planned for Tuesday. 
+I created six more weightlifting plans and worked on my basics page. 
+[ChatGPT for Carpenter](https://chatgpt.com/share/67033b8a-11d0-800f-97cf-3c295f962feb)  
+[Claude for Carpenter](https://poe.com/s/9IBCDDhO15k23f6KacKz)  
+[ChatGPT for Restaurant Area Manager](https://chatgpt.com/share/67033b65-97cc-800f-8429-3efbdf3e372f)  
+[Claude for Restaurant Area Manager](https://poe.com/s/8xAH5ZhNmh09OI7SYpWt)  
+[ChatGPT for Middle School Athlete](https://chatgpt.com/share/67033ba6-9724-800f-a936-be65d1a5b2a2)  
+[Claude for Middle School Athlete](https://poe.com/s/v05LWIhNrPwzZl25lhZA)  
