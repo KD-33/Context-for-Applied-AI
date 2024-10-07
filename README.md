@@ -80,7 +80,7 @@ This week I completed my original project and have moved on to a weightlifting p
 
 ## MATERIAL FROM WEEK 6  
 Tragically, I haven't been able to meet with my weightlifting trainer yet, he was very busy last week. But I have a meeting with him planned for Tuesday. 
-I created six more weightlifting plans and worked on my basics page. 
+I created six more weightlifting plans and worked on my basics page.  
 [ChatGPT for Carpenter](https://chatgpt.com/share/67033b8a-11d0-800f-97cf-3c295f962feb)  
 [Claude for Carpenter](https://poe.com/s/9IBCDDhO15k23f6KacKz)  
 [ChatGPT for Restaurant Area Manager](https://chatgpt.com/share/67033b65-97cc-800f-8429-3efbdf3e372f)  
