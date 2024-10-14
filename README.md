@@ -99,3 +99,8 @@ I also had a discussion with Claude on the ethics of creating workout programs f
 School Policy Ethics  
 [Short Chat with Claude on Ethics, I ran out of responses](https://poe.com/s/Y7ywBBheVcRIEbK52y3d)  
 [Much better and more in depth conversation with ChatGPT](https://chatgpt.com/share/670c9241-b014-800f-8001-8d144caff0ae)  
+
+I am also toying with adding an image-like aspect to my assignment. Creating aesthetically pleasing workout logs to compliment my plans.  
+[ChatGPT creating a workout log](https://chatgpt.com/share/670c949b-3408-800f-8600-f8c2412c28be)  
+I will toy with this more before turning in my final portfolio because I think it could make something very pretty.  
+
