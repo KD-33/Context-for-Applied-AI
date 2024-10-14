@@ -87,3 +87,15 @@ I created six more weightlifting plans and worked on my basics page.
 [Claude for Restaurant Area Manager](https://poe.com/s/8xAH5ZhNmh09OI7SYpWt)  
 [ChatGPT for Middle School Athlete](https://chatgpt.com/share/67033ba6-9724-800f-a936-be65d1a5b2a2)  
 [Claude for Middle School Athlete](https://poe.com/s/v05LWIhNrPwzZl25lhZA)  
+
+## MATERIAL FROM WEEK 7  
+I talked to my weightlifting coach and showed him all of the programs that I made. Then I made a new file on my repo for weightlifting program analysis. I wanted to include more than just his input so I also had ChatGPT and Claude evaluate the training plans.  
+[Claude's Evaluation of ChatGPT's Plans](https://poe.com/s/84MF2i1HnEi6TCkPNXFD)  
+[ChatGPT's Evaluation of Claude's Plans](https://chatgpt.com/share/670c8740-0f54-800f-b6ff-3b486fd6bad8)  
+
+I also had a discussion with Claude on the ethics of creating workout programs for people with AI. Should we tell them about the AI use or no?  
+[Disclose AI in Workout Plans](https://poe.com/s/jg5Sn33FT4EyJ6Hy3m4a)  
+
+School Policy Ethics  
+[Short Chat with Claude on Ethics, I ran out of responses](https://poe.com/s/Y7ywBBheVcRIEbK52y3d)  
+[Much better and more in depth conversation with ChatGPT](https://chatgpt.com/share/670c9241-b014-800f-8001-8d144caff0ae)  
